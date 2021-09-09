@@ -94,7 +94,7 @@ export default function About() {
               <p className="about__subheading">
                 Hi, I am <span>Amit Debnath</span>
               </p>
-              <h2 className="about__heading">A freelance Web developer</h2>
+              <h2 className="about__heading">A Mechanical Design Engineer</h2>
               <div className="about__info">
                 <PText>
                   I'm from New Delhi, India. A spot which had rich legacy and
