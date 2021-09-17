@@ -114,7 +114,7 @@ export default function About() {
               </div>
               <div className="downLoadCV">
                 <a
-                  href="https://drive.google.com/file/d/1SyxbK0aNMhcs34jBI_qhccFXrlsQvRJ2/view"
+                  href="https://drive.google.com/file/d/12ehun2qmRTSVqc61-qyIA5LLBGufyMsy/view"
                   target="_blank"
                   rel="noreferrer"
                 >
