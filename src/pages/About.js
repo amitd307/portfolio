@@ -161,8 +161,8 @@ export default function About() {
               <AboutInfoItem
                 title="Tools"
                 items={[
-                  'Fusion 360, AutoCAD, Keyshot',
-                  'SolidWorks, Inventor, Blender',
+                  'Fusion 360, GD&T, AutoCAD, STAAD',
+                  'SolidWorks, Keyshot, Inventor, Blender',
                 ]}
               />
             </div>
