@@ -161,7 +161,7 @@ export default function About() {
               <AboutInfoItem
                 title="Tools"
                 items={[
-                  'Fusion 360, GD&T, AutoCAD, STAAD',
+                  'Fusion 360, GD&T, AutoCAD, STAAD, 3Ds Max, V-Ray',
                   'SolidWorks, Keyshot, Inventor, Blender',
                 ]}
               />
