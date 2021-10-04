@@ -171,7 +171,7 @@ export default function About() {
 
               <AboutInfoItem
                 title="2021 -"
-                items={['GET at SEPL India Ltd.']}
+                items={['Mechanical Engineer at SEPL India Ltd.']}
               />
               <AboutInfoItem
                 title="2018 -"
@@ -179,7 +179,7 @@ export default function About() {
               />
               <AboutInfoItem
                 title="2016"
-                items={['Intern at TATA Motors, Agartala']}
+                items={['Jr. Design Engineer at TATA Motors, Agartala']}
               />
             </div>
           </div>
