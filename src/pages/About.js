@@ -174,12 +174,12 @@ export default function About() {
                 items={['Mechanical Engineer at SEPL India Ltd.']}
               />
               <AboutInfoItem
-                title="2018 -"
+                title="2018-"
                 items={['Freelance Mechanical Design Engineer']}
               />
               <AboutInfoItem
-                title="2016"
-                items={['Jr. Design Engineer at TATA Motors, Agartala']}
+                title="2017-2018"
+                items={['Jr. Mehcanical Engineer at TATA Motors, Agartala']}
               />
             </div>
           </div>
