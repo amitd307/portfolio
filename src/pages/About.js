@@ -154,14 +154,14 @@ export default function About() {
               <AboutInfoItem
                 title="Design"
                 items={[
-                  '3D Modeling, SPM Design',
+                  '3D Modeling, SPM Design, HVAC',
                   'Hard Surface Modeling, Illustration',
                 ]}
               />
               <AboutInfoItem
                 title="Tools"
                 items={[
-                  'Fusion 360, GD&T, AutoCAD, STAAD, 3Ds Max, V-Ray',
+                  'Fusion 360, GD&T, AutoCAD, HDPSY Chart',
                   'SolidWorks, Keyshot, Inventor, Blender',
                 ]}
               />
@@ -170,7 +170,7 @@ export default function About() {
               <h1 className="about__info__heading">Experiences</h1>
 
               <AboutInfoItem
-                title="2021 -"
+                title="2021-"
                 items={['Mechanical Engineer at SEPL India Ltd.']}
               />
               <AboutInfoItem
