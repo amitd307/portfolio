@@ -49,7 +49,7 @@ const projects = [
     id: uuidv4(),
     name: 'Industrial Robot',
     desc:
-      'The aim of this project is to develop a concept of lite weight industrial robot, this robot design festures a rotary axis.',
+      'The aim of this project is to develop a concept of light weight industrial robot, this robot design festures a rotary axis.',
     img: Robot,
   },
   {
