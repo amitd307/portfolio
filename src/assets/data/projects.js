@@ -5,6 +5,8 @@ import Knife from '../images/Knife.jpg';
 import Bike from '../images/Bike.jpg';
 import jeep from '../images/jeep.jpg';
 import Jet from '../images/SuperJet.jpg';
+import Robot from '../images/Robot.jpg';
+import Pen from '../images/TwoPen.jpg';
 import bomb from '../images/bomb.jpg';
 
 const projects = [
@@ -42,6 +44,20 @@ const projects = [
     desc:
       'A key feature of designing of an Super Sonic Aircraft is ability to maintain supersonic cruise for long haul, So long drag is essential.',
     img: Jet,
+  },
+  {
+    id: uuidv4(),
+    name: 'Industrial Robot',
+    desc:
+      'The aim of this project is to develop a concept of lite weight industrial robot, this robot design festures a rotary axis.',
+    img: Robot,
+  },
+  {
+    id: uuidv4(),
+    name: 'Digital Pen',
+    desc:
+      'Focused on mix of signature meterials and a fully custom movement inside the pen, this took down a long path of how digital pen works.',
+    img: Pen,
   },
   {
     id: uuidv4(),
