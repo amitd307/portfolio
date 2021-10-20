@@ -4,6 +4,7 @@ import aim from '../images/aim.png';
 import Knife from '../images/Knife.jpg';
 import Bike from '../images/Bike.jpg';
 import jeep from '../images/jeep.jpg';
+import Jet from '../images/SuperJet.jpg';
 import bomb from '../images/bomb.jpg';
 
 const projects = [
@@ -34,6 +35,13 @@ const projects = [
     desc:
       'Uniquely designed hand Grenade TNT 70g dependent on Russian-French F1 projectile. This task is likewise made for a game. The model is in stp design. Anybody can change over to any organize.',
     img: bomb,
+  },
+  {
+    id: uuidv4(),
+    name: 'Super Sonic Jet',
+    desc:
+      'A key feature of designing of an Super Sonic Aircraft is ability to maintain supersonic cruise for long haul, So long drag is essential.',
+    img: Jet,
   },
   {
     id: uuidv4(),
