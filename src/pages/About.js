@@ -168,18 +168,20 @@ export default function About() {
             </div>
             <div className="about__info__item">
               <h1 className="about__info__heading">Experiences</h1>
-
               <AboutInfoItem
-                title="2021-"
-                items={['Mechanical Engineer at SEPL India Ltd.']}
+                title="2021 -"
+                items={[
+                  'Design and Production Engineer at Shapecrunch Technology',
+                ]}
               />
+              <AboutInfoItem title="2021" items={['GET at SEPL India Ltd.']} />
               <AboutInfoItem
-                title="2018-"
+                title="2018 -"
                 items={['Freelance Mechanical Design Engineer']}
               />
               <AboutInfoItem
-                title="2017-2018"
-                items={['Jr. Mehcanical Engineer at TATA Motors, Agartala']}
+                title="2016"
+                items={['Intern at TATA Motors, Agartala']}
               />
             </div>
           </div>
